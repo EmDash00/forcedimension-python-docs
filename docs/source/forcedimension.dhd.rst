@@ -16,6 +16,7 @@ forcedimension.dhd.constants module
 -----------------------------------
 
 .. automodule:: forcedimension.dhd.constants
+    :imported-members:
     :members:
     :undoc-members:
     :show-inheritance:
