@@ -5,4 +5,3 @@ forcedimension-python
    :maxdepth: 4
 
    forcedimension
-   setup
