@@ -14,9 +14,13 @@
 #
 import os
 import sys
+import builtins
+
+builtins.__sphinx_build__ = True
+
 # sys.path.insert(0, os.path.abspath('.'))
 sys.path.insert(
-    0, os.path.abspath('../forcedimension-python')
+    0, os.path.abspath('../../forcedimension-python')
 )
 
 
@@ -29,7 +33,7 @@ author = 'Ember "Emmy" Chow'
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.1.1'
 
 
 # -- General configuration ---------------------------------------------------
