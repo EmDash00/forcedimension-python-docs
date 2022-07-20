@@ -14,6 +14,10 @@
 #
 import os
 import sys
+import builtins
+
+builtins.__sphinx_build__ = True
+
 # sys.path.insert(0, os.path.abspath('.'))
 sys.path.insert(
     0, os.path.abspath('../../forcedimension-python')

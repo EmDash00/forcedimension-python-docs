@@ -15,5 +15,7 @@ build:
 sphinx:
    configuration: docs/source/conf.py
 
+requirements: requirements.txt
+
 submodules:
   include: all
