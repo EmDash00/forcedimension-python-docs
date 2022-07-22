@@ -95,6 +95,8 @@ html_theme = 'sphinx_rtd_theme'
 #
 # html_theme_options = {}
 
+html_static_path = ['_static']
+
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
@@ -179,6 +181,8 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
+
+
 
 
 # -- Extension configuration -------------------------------------------------
