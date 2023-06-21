@@ -12,8 +12,9 @@ supported haptic devices using C++.
 ForceDimension Python an unofficial attempt to provide a open source, performant, and
 Pythonic interface for interacting with the original C++ API so that libraries such as
 NumPy may be used to render haptics. It was created by Ember Chow during her work at both the
-Rothlab and Trusting AI projects at IU: Bloomington bfor use in scientific experiments
-involving haptics using the Novint Falcon.
+Rothlab and Trusting AI projects at IU: Bloomington for use in scientific experiments
+involving haptics using the Novint Falcon. This project is continuing to be used as a part of
+her research at University of Washington - Seattle.
 
 It consists of two parts: low-level bindings and high level wrappers.
 
