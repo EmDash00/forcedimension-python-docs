@@ -1,5 +1,5 @@
-forcedimension-python
-=====================
+forcedimension
+==============
 
 .. toctree::
    :maxdepth: 4
